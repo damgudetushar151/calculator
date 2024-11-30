@@ -1,0 +1,36 @@
+.calculator{
+    background-color: #1c0606;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    flex-direction: row;
+    
+
+}
+
+.input{
+    
+    margin-top: 50px;
+
+    
+}
+
+.btn{
+width: 30%;
+width: 40px;
+color: rgb(1, 1, 8);
+font-weight: bolder;
+background-color: rgb(236, 34, 152);
+
+
+    
+}
+.TEXTH{
+    
+    
+background-color: aliceblue;
+
+padding: 10px;
+
+}
+
